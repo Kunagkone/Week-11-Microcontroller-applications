@@ -1,6 +1,4 @@
-#include 
-#include 
-#include 
+
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 #include "driver/adc.h"

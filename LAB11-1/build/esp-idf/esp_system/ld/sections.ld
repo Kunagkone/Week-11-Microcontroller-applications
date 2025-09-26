@@ -1,6 +1,6 @@
 /* Automatically generated file; DO NOT EDIT */
 /* Espressif IoT Development Framework Linker Script */
-/* Generated from: C:\Users\Kunakorn\LABweek11\Week-11-Microcontroller-applications\LAB11\build\esp-idf\esp_system\ld\sections.ld.in */
+/* Generated from: C:\Users\Kunakorn\LABweek11\Week-11-Microcontroller-applications\LAB11-1\build\esp-idf\esp_system\ld\sections.ld.in */
 
 /*
 

@@ -22,4 +22,4 @@ set confirm off
 set confirm on
 
 # Load application symbols
-file C:/Users/Kunakorn/LABweek11/Week-11-Microcontroller-applications/LAB11/build/bootloader/bootloader.elf
+file C:/Users/Kunakorn/LABweek11/Week-11-Microcontroller-applications/LAB11-1/build/bootloader/bootloader.elf

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Kunakorn/LABweek11/Week-11-Microcontroller-applications/LAB11/main
+# Install script for directory: C:/Users/Kunakorn/LABweek11/Week-11-Microcontroller-applications/LAB11-1/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

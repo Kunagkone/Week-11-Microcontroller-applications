@@ -1,4 +1,4 @@
-/* * Data converted from C:/Users/Kunakorn/LABweek11/Week-11-Microcontroller-applications/LAB11/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from C:/Users/Kunakorn/LABweek11/Week-11-Microcontroller-applications/LAB11-1/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)

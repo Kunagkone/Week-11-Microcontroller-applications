@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "LAB11",
-    "project_version":    "d0c2da6-dirty",
+    "project_version":    "f5ecc66-dirty",
     "project_path":       "C:/Users/Kunakorn/LABweek11/Week-11-Microcontroller-applications/LAB11-1",
     "idf_path":           "C:/Users/Kunakorn/esp/v5.5.1/esp-idf",
     "build_dir":          "C:/Users/Kunakorn/LABweek11/Week-11-Microcontroller-applications/LAB11-1/build",
